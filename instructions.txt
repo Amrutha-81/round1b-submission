@@ -1,0 +1,30 @@
+# Round 1B Instructions - Persona-Driven Document Intelligence
+
+1. Place all PDFs in:
+   app/input/
+
+2. Define the persona and job in:
+   app/persona_job.json
+
+3. Build the Docker image:
+   docker build -t persona_extractor:round1b .
+
+4. Run the container:
+   docker run --rm -v "%cd%\\app\\input":/app/input -v "%cd%\\app\\output":/app/output --network none persona_extractor:round1b
+
+5. Output:
+   - Extracted JSON appears in app/output/final_output.json
+# Round 1B - Execution Instructions
+
+##  Folder Structure:
+- Dockerfile
+- requirements.txt
+- instructions.txt
+- approach_explanation.md
+- app/
+  ├── main.py
+  ├── input/
+  │   ├── (Place 3–10 PDFs here)
+  │   └── persona_job.json
+  └── output/
+      └── (Will be filled with final_output.json)

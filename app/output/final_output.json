@@ -1,0 +1,3608 @@
+{
+    "metadata": {
+        "input_documents": [
+            "pdf4.pdf",
+            "chemistry_reaction_kinetics.pdf",
+            "pdf2.pdf",
+            "chem3.pdf",
+            "pdf3.pdf",
+            "pdf1.pdf",
+            "chem2.pdf"
+        ],
+        "persona": "Undergraduate Chemistry Student preparing for exams on reaction kinetics",
+        "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+        "timestamp": "2025-07-26T18:55:44.786387"
+    },
+    "extracted_sections": [
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 1,
+            "section_title": "Reaction kinetics is the study of the rates at which chemical processes occur. It helps us understand",
+            "importance_rank": 4
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "for example, someone with an understanding of a",
+            "importance_rank": 4
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 1,
+            "section_title": "Introduction to Reaction Kinetics",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 2,
+            "section_title": "Temperature, concentration, surface area, and catalysts can all influence how fast a reaction takes",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 3,
+            "section_title": "The rate law expresses the relationship between the rate of a chemical reaction and the",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 8,
+            "section_title": "Reaction Mechanisms",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 9,
+            "section_title": "An elementary reaction is a single step in a reaction mechanism and describes a direct interaction",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Give a description of you/the person who needs care and support, for",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": ", for example, honest, reliable, punctual, non-judgemental, ability to",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": ": for example, due to the nature of this role including medical/personal",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Use this section to attract people to the role, for example, you could say that full",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "specialist communication skills, for example, British Sign Language or",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "like your personal assistant to have, for example:",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "a job comprises and the personal characteristics required to perform them successfully.",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "dynamic and forward-thinking Chief Executive Officer, within one of the leading Barristers\u2019",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "varied and exciting, working with a great team and perfect for someone who loves to keep",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Conduct research for internal projects, events and presentations.",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "probation) for the right candidate.  Please note that there will occasions when there is a need",
+            "importance_rank": 3
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "section_title": "Reaction Mechanism",
+            "importance_rank": 2
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "section_title": "First Order Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "section_title": "Second Order Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 1,
+            "section_title": "how different conditions affect the speed of a reaction.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 2,
+            "section_title": "Factors Affecting Reaction Rates",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 4,
+            "section_title": "Order of Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 4,
+            "section_title": "Reaction order defines how the rate is affected by the concentration of each reactant. It can be zero,",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 5,
+            "section_title": "Determining Reaction Order",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 5,
+            "section_title": "Reaction order is determined experimentally using methods such as the method of initial rates.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 6,
+            "section_title": "This equation shows the dependence of the rate constant on temperature and activation energy.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 7,
+            "section_title": "Catalysts increase the rate of a reaction by lowering the activation energy without being consumed",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 7,
+            "section_title": "in the reaction.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 8,
+            "section_title": "A mechanism is a detailed step-by-step description of how a reaction occurs at the molecular level.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 9,
+            "section_title": "Elementary Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 10,
+            "section_title": "These laws allow us to calculate concentrations of reactants at any time during the reaction process",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Sample job description and person",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "who needs care and support to live their personal and social life according to",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "example, gender, age, likes, pets and hobbies.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Give a description of your/the person who needs care and supports\u2019",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "circumstances, for example, wheelchair user, complex health/care needs,",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": ", for example, support to:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": ", for example, support with bathing, showering, shaving, teeth",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": ", for example, support with grocery shopping, cooking",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "ironing and gardening.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Type of person that you/they are looking for:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "build good relationships based on trust and respect, flexible, adaptable,",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "easy going, able to work alone, positive, willingness to travel, understands",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "rate of pay, flexible working and work place pension.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "pay, for example, weekdays - \u00a38.00 per hour or sleepover - \u00a337.80.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Skills, qualifications and experience \u2013 you can add skills or qualifications",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "list the essential skills, qualifications and experience that personal",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "assistants need to have, for example:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "list the desirable skills, qualifications and experience that you would",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "Writing Job Descriptions and Person Specifications",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "Securing the right person with the right skills for the right role is vital for any organisation. When there is a good",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "fit between a person and their role, that person is likely to learn quickly and be more engaged and productive.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "detrimental impact on colleagues and customers as well as the new recruit. Taking the time to develop a good",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "job description and person specification can make all the difference in terms of finding the right or wrong person",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "JOB DESCRIPTION AND PERSON SPECIFICATION:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "ASAP and depending upon notice period",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "This is a fabulous role providing the full range of administrative and personal support to our",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Key Responsibilities:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Manage the coordination and logistics of both internal and external meetings.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Arrange detailed domestic and international travel plans, including but not limited to",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "booking travel, accommodations, car services, developing itineraries and agendas, and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "preparing documentation for travel-related meetings.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Draft correspondence, reports and other communications on behalf of the CEO.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Maintain an effective and efficient electronic and hard copy filing system.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Edit and manage spreadsheets, produce presentations, reports and other documents.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Screen incoming calls and determine the level of priority, while using caution in dispensing",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "information.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Lead and coordinate on ad hoc projects as requested.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "management and onboarding.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Report any errors, problems or mistakes which may give cause for concern or complaint",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Contribute to, and help build, a strong Chambers team with good relationships and high",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Key relationships:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "We are a leading barristers\u2019 chambers with offices in London, Singapore and Kuala Lumpur.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Planning, Environment and Property, Public Law and Civil Liability Law, throughout the UK and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "develop and grow on their own path. We foster and support ongoing learning and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "We trust our staff team with responsibility, and are open to everyone\u2019s ideas about their own",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "futures and how to take the business forward.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "that work is enjoyable and rewarding.  We want to understand the needs of everyone on our",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "We strive to be an equal opportunities employer and are committed to diversity amongst our",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "staff and members.   We welcome applications from candidates from backgrounds that have",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "The Candidate (Person Specification)",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "We are looking for a candidate who has the following attributes:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Well-developed and professional interpersonal skills, able to build relationships and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Excellent listening, written and verbal communication skills (including good proof-reading",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Highly organised, with excellent administrative skills and attention to detail.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Able to maintain integrity when dealing with highly confidential and sensitive matters.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Able to use initiative to be proactively respond to situations and projects.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "Our office is well situated.  We are close to tube and overground stations, as well as",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "We may not be able to respond to every candidate individually.  You will, however,",
+            "importance_rank": 2
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "section_title": "Activation Energy",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "section_title": "Catalysts and Inhibitors",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "section_title": "Rate Law Expressions",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "section_title": "Arrhenius Equation",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 3,
+            "section_title": "concentration of its reactants.",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 4,
+            "section_title": "first, or second order.",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 6,
+            "section_title": "The Arrhenius Equation",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 10,
+            "section_title": "for different orders.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "specification",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Personal assistant (PA)",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Location:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "To assist with a variety of tasks which will enable/assist the employer/person",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "their wishes and interests.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "specific medical or other conditions such as Cerebral Palsy, Epilepsy, Downs",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "keep in touch and socialise with family and friends",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "attend adult education classes",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Personal care",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "cleaning, dressing, catheter care, PEG feeding, administering medication,",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "eating or performing exercises/physiotherapy.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "and serving nutritious meals and snacks, cleaning, changing linen, laundry,",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "equality and diversity or has a good sense of humour.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "specific condition, or has a shared language or customs.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "care the potential employer will be considering female/male applicants only.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "training will be given, how they will be supported during their induction/first few",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "List the days and hours of work \u2013 you can add \u2018flexible hours to be mutually",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "that are relevant for you:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "car and appropriate insurance",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "nursing qualification",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "confidentiality",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "good at building relationships",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "Makaton, or a willingness to learn them.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "section_title": "Personal Assistant  1",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "section_title": "Personal Assistant  2",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "section_title": "Personal Assistant  3",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "section_title": "Personal Assistant  4",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "section_title": "Personal Assistant  5",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "section_title": "Personal Assistant  6",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "section_title": "Personal Assistant  7",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "section_title": "Personal Assistant  8",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 8,
+            "section_title": "Personal Assistant  9",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 8,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "section_title": "Personal Assistant  10",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "section_title": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "Recruitment isn\u2019t just about filling a vacancy. It\u2019s about staffing a team or department with the skills and",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "expertise it needs to achieve its goals. This requires a comprehensive understanding of the essential tasks that",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "The opposite can also be true though, meaning that a poor recruitment decision can have a significantly",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "for a job.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "Description",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Personal Assistant",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "08:00 on Monday, 17 June 2024",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Contract:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Full time (37.5 hours per week) and permanent",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Friday, 21 June 2024 [In person - please keep free]",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Location:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "London",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "The Role: Personal Assistant",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "filing, travel arrangements.  In addition, the successful application will provide",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "administrative and ad hoc support to our Chief Operating Officer.   This role is extremely",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "busy and enjoys a challenge.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "General support for the wider team.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Maintain complex and detailed calendars and diaries.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Compose and prepare high quality emails and messages to internal and external",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Process invoices and expense claims.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Assist in the administration of core HR functions including recruitment, absence",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Provide general administrative and project management support to the COO as may be",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Assist in the smooth operation of Chambers, answering the phone in a professional",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "manner, and undertaking ad hoc administrative tasks.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "by, or on behalf of, any barrister or client.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "levels of communication.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Play an active role in manager, team and staff meetings.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Such other tasks as may reasonably be required from time to time.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "We are made up of 161 barristers, of whom 56 are King\u2019s Counsel, along with a staff team of",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "We work in a wide range of sectors and practice areas of law, specialising in Commercial,",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "internationally.  Many of our cases are high profile - you may have seen or read about them",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "sound practical advice and explaining legal issues in clear terms.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Our culture is open, friendly, supportive and caring.  Our staff have the opportunity to",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "development, with many of our staff studying alongside working with us.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "While we work hard, we believe in a healthy work / life balance and we try hard to make sure",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "not traditionally been represented in the legal sector.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Able to multitask, prioritise, work to tight deadlines and remain calm under pressure.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Flexible and proactive, able to work effectively both independently as well as part of a",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "The above may be demonstrated through extra-curricular activities or voluntary work as well",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "as formal employment.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "An annual salary of c.\u00a335,000 (full time (37.5 hours) and permanent role).",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Following a successful probationary period, our discretionary benefits include access",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "employee assistance programme, interest-free season ticket loan, discretionary bonus",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "scheme, annual eye test, along with additional paid annual leave including \u00bd day",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "birthday leave, 2 days religious holidays, 2 days annual slow travel leave and 1 \u2018",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "Chambers offers a group pension scheme paying 6% of salary into an individual\u2019s",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "pension scheme where the employee contributes at least 3% of their salary. This is",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "available after successful completion of a probationary period.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "A modern and spacious office space with showers, bike storage and games room.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "Lincoln\u2019s Inn Fields (the largest public square in London).",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "Our London office is open Monday to Friday from 8:00am to 6:30pm.  Although most of our",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "team work a mix of in-office and home working, we are predominantly office based.  We aim",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "to be as flexible as we can, taking into account the role and the needs of the business.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "This role is primarily office-based but there is the opportunity for some home working  (post",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "receive an automatic reply to your email acknowledging receipt of your application.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "We will only consider applications from individuals who are eligible to work in the United",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "section_title": "Intermediate Compounds",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 2,
+            "section_title": "place.",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 3,
+            "section_title": "Rate Laws",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 7,
+            "section_title": "Catalysis",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 9,
+            "section_title": "between reactants.",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 10,
+            "section_title": "Integrated Rate Laws",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Job title:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Reporting to:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "(Your name)",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "(The area where you live - do not put your home address)",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Job purpose:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "This role involves live-in or overnight support.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "About the employer:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Syndrome, a learning disability or brain injury.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Main duties:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "Social duties",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "attend medical appointments",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "do hobbies such as dog walking, yoga or playing a sport",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "attend social events such as music gigs or the cinema",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "section_title": "attend work.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Domestic duties",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "These duties may vary from day to day.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Values",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Specific requirements,",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "What you can expect to receive:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "weeks of working with you, access to other training opportunities, competitive",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Hours of work:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "agreed\u2019 if you wish.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Rate of pay:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "If the hours include evenings, sleepovers or weekends, list the different rates of",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "Essential:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "driving licence",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "knowledge of a particular language or culture",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "section_title": "able to swim",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "Preferred:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "computer literate",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "good communicator",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "likes dogs or other pets",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "a good listener",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "section_title": "ability to support people with behaviours which challenge.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 8,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "section_title": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "section_title": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "Recruitment with Success Profiles:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "What does it involve?",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "What\u2019s the outcome?",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "Learning activities",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "section_title": "How to book",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Closing date:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Salary:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "\u00a335,000 per annum",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Interview Date:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Start Date:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Chambers.  Integral to the smooth running of her day, duties include diary management,",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Administrative support to the Chief Executive Officer.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Administrative support to the Chief Operating Officer.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Support to the Chief Executive Officer:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "recipients.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "section_title": "Maintain social media accounts.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Support the CEO in such other tasks as may be required.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Support to the Chief Operating Support:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "required.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "General Support:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "CEO, COO",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "Senior Team Members.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "About us: 39 Essex Chambers",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "in the media.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "section_title": "In all of our work we aim to provide an excellent, efficient service to all of our clients, giving",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "team so that they feel well supported.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "collaborate with a range of stakeholders.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "skills), as well as numeracy skills.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "A high level of competency in all MS Office products (Word, Outlook, Excel, PowerPoint).",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "Undergraduate degree (minimum 2:1) or equivalent.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "What we can offer you:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "23 days\u2019 holiday increasing by 1 day each year to a maximum of 25 days, plus bank",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "holidays.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "section_title": "to our private medical scheme, ride to work scheme, private GP service, life insurance,",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "give back",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "to work outside normal working hours.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "How to Apply",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "Please note:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "section_title": "Kingdom.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 5,
+            "section_title": "What our staff say",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 5,
+            "section_title": "#shinewith39",
+            "importance_rank": 0
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 1,
+            "refined_text": "Reaction kinetics is the study of the rates at which chemical processes occur. It helps us understand",
+            "importance_rank": 4
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "for example, someone with an understanding of a",
+            "importance_rank": 4
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 1,
+            "refined_text": "Introduction to Reaction Kinetics",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 2,
+            "refined_text": "Temperature, concentration, surface area, and catalysts can all influence how fast a reaction takes",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 3,
+            "refined_text": "The rate law expresses the relationship between the rate of a chemical reaction and the",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 8,
+            "refined_text": "Reaction Mechanisms",
+            "importance_rank": 3
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 9,
+            "refined_text": "An elementary reaction is a single step in a reaction mechanism and describes a direct interaction",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Give a description of you/the person who needs care and support, for",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": ", for example, honest, reliable, punctual, non-judgemental, ability to",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": ": for example, due to the nature of this role including medical/personal",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Use this section to attract people to the role, for example, you could say that full",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "specialist communication skills, for example, British Sign Language or",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "like your personal assistant to have, for example:",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "a job comprises and the personal characteristics required to perform them successfully.",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "dynamic and forward-thinking Chief Executive Officer, within one of the leading Barristers\u2019",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "varied and exciting, working with a great team and perfect for someone who loves to keep",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Conduct research for internal projects, events and presentations.",
+            "importance_rank": 3
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "probation) for the right candidate.  Please note that there will occasions when there is a need",
+            "importance_rank": 3
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "refined_text": "Reaction Mechanism",
+            "importance_rank": 2
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "refined_text": "First Order Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "refined_text": "Second Order Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 1,
+            "refined_text": "how different conditions affect the speed of a reaction.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 2,
+            "refined_text": "Factors Affecting Reaction Rates",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 4,
+            "refined_text": "Order of Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 4,
+            "refined_text": "Reaction order defines how the rate is affected by the concentration of each reactant. It can be zero,",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 5,
+            "refined_text": "Determining Reaction Order",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 5,
+            "refined_text": "Reaction order is determined experimentally using methods such as the method of initial rates.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 6,
+            "refined_text": "This equation shows the dependence of the rate constant on temperature and activation energy.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 7,
+            "refined_text": "Catalysts increase the rate of a reaction by lowering the activation energy without being consumed",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 7,
+            "refined_text": "in the reaction.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 8,
+            "refined_text": "A mechanism is a detailed step-by-step description of how a reaction occurs at the molecular level.",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 9,
+            "refined_text": "Elementary Reactions",
+            "importance_rank": 2
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 10,
+            "refined_text": "These laws allow us to calculate concentrations of reactants at any time during the reaction process",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Sample job description and person",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "who needs care and support to live their personal and social life according to",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "example, gender, age, likes, pets and hobbies.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Give a description of your/the person who needs care and supports\u2019",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "circumstances, for example, wheelchair user, complex health/care needs,",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": ", for example, support to:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": ", for example, support with bathing, showering, shaving, teeth",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": ", for example, support with grocery shopping, cooking",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "ironing and gardening.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Type of person that you/they are looking for:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "build good relationships based on trust and respect, flexible, adaptable,",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "easy going, able to work alone, positive, willingness to travel, understands",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "rate of pay, flexible working and work place pension.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "pay, for example, weekdays - \u00a38.00 per hour or sleepover - \u00a337.80.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Skills, qualifications and experience \u2013 you can add skills or qualifications",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "list the essential skills, qualifications and experience that personal",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "assistants need to have, for example:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "list the desirable skills, qualifications and experience that you would",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "Writing Job Descriptions and Person Specifications",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "Securing the right person with the right skills for the right role is vital for any organisation. When there is a good",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "fit between a person and their role, that person is likely to learn quickly and be more engaged and productive.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "detrimental impact on colleagues and customers as well as the new recruit. Taking the time to develop a good",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "job description and person specification can make all the difference in terms of finding the right or wrong person",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "JOB DESCRIPTION AND PERSON SPECIFICATION:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "ASAP and depending upon notice period",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "This is a fabulous role providing the full range of administrative and personal support to our",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Key Responsibilities:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Manage the coordination and logistics of both internal and external meetings.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Arrange detailed domestic and international travel plans, including but not limited to",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "booking travel, accommodations, car services, developing itineraries and agendas, and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "preparing documentation for travel-related meetings.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Draft correspondence, reports and other communications on behalf of the CEO.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Maintain an effective and efficient electronic and hard copy filing system.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Edit and manage spreadsheets, produce presentations, reports and other documents.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Screen incoming calls and determine the level of priority, while using caution in dispensing",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "information.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Lead and coordinate on ad hoc projects as requested.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "management and onboarding.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Report any errors, problems or mistakes which may give cause for concern or complaint",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Contribute to, and help build, a strong Chambers team with good relationships and high",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Key relationships:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "We are a leading barristers\u2019 chambers with offices in London, Singapore and Kuala Lumpur.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Planning, Environment and Property, Public Law and Civil Liability Law, throughout the UK and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "develop and grow on their own path. We foster and support ongoing learning and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "We trust our staff team with responsibility, and are open to everyone\u2019s ideas about their own",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "futures and how to take the business forward.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "that work is enjoyable and rewarding.  We want to understand the needs of everyone on our",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "We strive to be an equal opportunities employer and are committed to diversity amongst our",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "staff and members.   We welcome applications from candidates from backgrounds that have",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "The Candidate (Person Specification)",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "We are looking for a candidate who has the following attributes:",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Well-developed and professional interpersonal skills, able to build relationships and",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Excellent listening, written and verbal communication skills (including good proof-reading",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Highly organised, with excellent administrative skills and attention to detail.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Able to maintain integrity when dealing with highly confidential and sensitive matters.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Able to use initiative to be proactively respond to situations and projects.",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "Our office is well situated.  We are close to tube and overground stations, as well as",
+            "importance_rank": 2
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "We may not be able to respond to every candidate individually.  You will, however,",
+            "importance_rank": 2
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "refined_text": "Activation Energy",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "refined_text": "Catalysts and Inhibitors",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "refined_text": "Rate Law Expressions",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem3.pdf",
+            "page": 1,
+            "refined_text": "Arrhenius Equation",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 3,
+            "refined_text": "concentration of its reactants.",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 4,
+            "refined_text": "first, or second order.",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 6,
+            "refined_text": "The Arrhenius Equation",
+            "importance_rank": 1
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 10,
+            "refined_text": "for different orders.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "specification",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Personal assistant (PA)",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Location:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "To assist with a variety of tasks which will enable/assist the employer/person",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "their wishes and interests.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "specific medical or other conditions such as Cerebral Palsy, Epilepsy, Downs",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "keep in touch and socialise with family and friends",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "attend adult education classes",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Personal care",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "cleaning, dressing, catheter care, PEG feeding, administering medication,",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "eating or performing exercises/physiotherapy.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "and serving nutritious meals and snacks, cleaning, changing linen, laundry,",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "equality and diversity or has a good sense of humour.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "specific condition, or has a shared language or customs.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "care the potential employer will be considering female/male applicants only.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "training will be given, how they will be supported during their induction/first few",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "List the days and hours of work \u2013 you can add \u2018flexible hours to be mutually",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "that are relevant for you:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "car and appropriate insurance",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "nursing qualification",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "confidentiality",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "good at building relationships",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "Makaton, or a willingness to learn them.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "refined_text": "Personal Assistant  1",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "refined_text": "Personal Assistant  2",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "refined_text": "Personal Assistant  3",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "refined_text": "Personal Assistant  4",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "refined_text": "Personal Assistant  5",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "refined_text": "Personal Assistant  6",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "refined_text": "Personal Assistant  7",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "refined_text": "Personal Assistant  8",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 8,
+            "refined_text": "Personal Assistant  9",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 8,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "refined_text": "Personal Assistant  10",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "refined_text": "Responsibilities",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "Recruitment isn\u2019t just about filling a vacancy. It\u2019s about staffing a team or department with the skills and",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "expertise it needs to achieve its goals. This requires a comprehensive understanding of the essential tasks that",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "The opposite can also be true though, meaning that a poor recruitment decision can have a significantly",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "for a job.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "Description",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Personal Assistant",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "08:00 on Monday, 17 June 2024",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Contract:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Full time (37.5 hours per week) and permanent",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Friday, 21 June 2024 [In person - please keep free]",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Location:",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "London",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "The Role: Personal Assistant",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "filing, travel arrangements.  In addition, the successful application will provide",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "administrative and ad hoc support to our Chief Operating Officer.   This role is extremely",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "busy and enjoys a challenge.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "General support for the wider team.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Maintain complex and detailed calendars and diaries.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Compose and prepare high quality emails and messages to internal and external",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Process invoices and expense claims.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Assist in the administration of core HR functions including recruitment, absence",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Provide general administrative and project management support to the COO as may be",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Assist in the smooth operation of Chambers, answering the phone in a professional",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "manner, and undertaking ad hoc administrative tasks.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "by, or on behalf of, any barrister or client.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "levels of communication.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Play an active role in manager, team and staff meetings.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Such other tasks as may reasonably be required from time to time.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "We are made up of 161 barristers, of whom 56 are King\u2019s Counsel, along with a staff team of",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "We work in a wide range of sectors and practice areas of law, specialising in Commercial,",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "internationally.  Many of our cases are high profile - you may have seen or read about them",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "sound practical advice and explaining legal issues in clear terms.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Our culture is open, friendly, supportive and caring.  Our staff have the opportunity to",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "development, with many of our staff studying alongside working with us.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "While we work hard, we believe in a healthy work / life balance and we try hard to make sure",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "not traditionally been represented in the legal sector.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Able to multitask, prioritise, work to tight deadlines and remain calm under pressure.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Flexible and proactive, able to work effectively both independently as well as part of a",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "The above may be demonstrated through extra-curricular activities or voluntary work as well",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "as formal employment.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "An annual salary of c.\u00a335,000 (full time (37.5 hours) and permanent role).",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Following a successful probationary period, our discretionary benefits include access",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "employee assistance programme, interest-free season ticket loan, discretionary bonus",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "scheme, annual eye test, along with additional paid annual leave including \u00bd day",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "birthday leave, 2 days religious holidays, 2 days annual slow travel leave and 1 \u2018",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "Chambers offers a group pension scheme paying 6% of salary into an individual\u2019s",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "pension scheme where the employee contributes at least 3% of their salary. This is",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "available after successful completion of a probationary period.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "A modern and spacious office space with showers, bike storage and games room.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "Lincoln\u2019s Inn Fields (the largest public square in London).",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "Our London office is open Monday to Friday from 8:00am to 6:30pm.  Although most of our",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "team work a mix of in-office and home working, we are predominantly office based.  We aim",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "to be as flexible as we can, taking into account the role and the needs of the business.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "This role is primarily office-based but there is the opportunity for some home working  (post",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "receive an automatic reply to your email acknowledging receipt of your application.",
+            "importance_rank": 1
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "We will only consider applications from individuals who are eligible to work in the United",
+            "importance_rank": 1
+        },
+        {
+            "document": "chem2.pdf",
+            "page": 1,
+            "refined_text": "Intermediate Compounds",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 2,
+            "refined_text": "place.",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 3,
+            "refined_text": "Rate Laws",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 7,
+            "refined_text": "Catalysis",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 9,
+            "refined_text": "between reactants.",
+            "importance_rank": 0
+        },
+        {
+            "document": "chemistry_reaction_kinetics.pdf",
+            "page": 10,
+            "refined_text": "Integrated Rate Laws",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Job title:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Reporting to:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "(Your name)",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "(The area where you live - do not put your home address)",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Job purpose:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "This role involves live-in or overnight support.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "About the employer:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Syndrome, a learning disability or brain injury.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Main duties:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "Social duties",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "attend medical appointments",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "do hobbies such as dog walking, yoga or playing a sport",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "attend social events such as music gigs or the cinema",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 1,
+            "refined_text": "attend work.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Domestic duties",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "These duties may vary from day to day.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Values",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Specific requirements,",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "What you can expect to receive:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "weeks of working with you, access to other training opportunities, competitive",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Hours of work:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "agreed\u2019 if you wish.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Rate of pay:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "If the hours include evenings, sleepovers or weekends, list the different rates of",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "Essential:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "driving licence",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "knowledge of a particular language or culture",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 2,
+            "refined_text": "able to swim",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "Preferred:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "computer literate",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "good communicator",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "likes dogs or other pets",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "a good listener",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf1.pdf",
+            "page": 3,
+            "refined_text": "ability to support people with behaviours which challenge.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 1,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 2,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 3,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 4,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 5,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 6,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 7,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 8,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "refined_text": "Job summary",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf2.pdf",
+            "page": 9,
+            "refined_text": "Requirements",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "Recruitment with Success Profiles:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "What does it involve?",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "What\u2019s the outcome?",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "Learning activities",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf3.pdf",
+            "page": 1,
+            "refined_text": "How to book",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Closing date:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Salary:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "\u00a335,000 per annum",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Interview Date:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Start Date:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Chambers.  Integral to the smooth running of her day, duties include diary management,",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Administrative support to the Chief Executive Officer.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Administrative support to the Chief Operating Officer.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Support to the Chief Executive Officer:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "recipients.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 1,
+            "refined_text": "Maintain social media accounts.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Support the CEO in such other tasks as may be required.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Support to the Chief Operating Support:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "required.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "General Support:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "CEO, COO",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "Senior Team Members.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "About us: 39 Essex Chambers",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "in the media.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 2,
+            "refined_text": "In all of our work we aim to provide an excellent, efficient service to all of our clients, giving",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "team so that they feel well supported.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "collaborate with a range of stakeholders.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "skills), as well as numeracy skills.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "A high level of competency in all MS Office products (Word, Outlook, Excel, PowerPoint).",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "Undergraduate degree (minimum 2:1) or equivalent.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "What we can offer you:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "23 days\u2019 holiday increasing by 1 day each year to a maximum of 25 days, plus bank",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "holidays.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 3,
+            "refined_text": "to our private medical scheme, ride to work scheme, private GP service, life insurance,",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "give back",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "to work outside normal working hours.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "How to Apply",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "Please note:",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 4,
+            "refined_text": "Kingdom.",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 5,
+            "refined_text": "What our staff say",
+            "importance_rank": 0
+        },
+        {
+            "document": "pdf4.pdf",
+            "page": 5,
+            "refined_text": "#shinewith39",
+            "importance_rank": 0
+        }
+    ]
+}
