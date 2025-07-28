@@ -6,7 +6,7 @@ from datetime import datetime
 # --- Configuration ---
 INPUT_DIR = "app/input"
 OUTPUT_DIR = "app/output"
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "final_output.json")
+OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "output", "final_output.json")
 
 # --- Persona Definition ---
 persona = "Undergraduate Chemistry Student preparing for exams on reaction kinetics"
@@ -23,13 +23,13 @@ def is_relevant(text):
     text_lower = text.lower()
     return any(keyword in text_lower for keyword in KEYWORDS)
 
-# --- Rank section based on number of keyword hits ---
+# --- Calculate keyword importance ---
 def calculate_importance(text):
     text_lower = text.lower()
     return sum(1 for keyword in KEYWORDS if keyword in text_lower)
 
-# --- Extract headings or lines with relevance ---
-def extract_relevant_sections(filepath):
+# --- Extract headings (heuristically) ---
+def extract_heading_sections(filepath):
     print(f"Processing: {os.path.basename(filepath)}")
     doc = fitz.open(filepath)
     sections = []
@@ -40,22 +40,23 @@ def extract_relevant_sections(filepath):
 
         for block in blocks:
             text = block[4].strip()
-            if len(text) < 20:
-                continue  # Skip tiny blocks
-            if is_relevant(text):
-                importance = calculate_importance(text)
-                sections.append({
-                    "document": os.path.basename(filepath),
-                    "page": page_number + 1,
-                    "section_title": text,
-                    "importance_rank": importance
-                })
+            if len(text) < 10:
+                continue
 
-    # Sort and return top 5 per PDF
-    sections.sort(key=lambda x: x["importance_rank"], reverse=True)
-    return sections[:5]
+            # Heuristic: Only consider lines that look like titles/headings
+            if text.isupper() or text.istitle():
+                if is_relevant(text):
+                    importance = calculate_importance(text)
+                    sections.append({
+                        "document": os.path.basename(filepath),
+                        "page": page_number + 1,
+                        "section_title": text,
+                        "importance_rank": importance
+                    })
 
-# --- Main execution ---
+    return sections
+
+# --- Main Execution ---
 def main():
     print("main() started")
 
@@ -63,20 +64,29 @@ def main():
         os.makedirs(OUTPUT_DIR)
 
     all_sections = []
-    input_files = [
-        f for f in os.listdir(INPUT_DIR)
-        if f.endswith(".pdf")
-    ]
+    input_files = [f for f in os.listdir(INPUT_DIR) if f.endswith(".pdf")]
 
     for filename in input_files:
         path = os.path.join(INPUT_DIR, filename)
-        sections = extract_relevant_sections(path)
+        sections = extract_heading_sections(path)
         all_sections.extend(sections)
 
-    # Sort final combined results
+    # Sort and pick top 5 most relevant sections
     all_sections.sort(key=lambda x: x["importance_rank"], reverse=True)
+    top_sections = all_sections[:5]
 
-    # Prepare Output JSON
+    # Subsection analysis = one refined sentence per section
+    subsection_analysis = [
+        {
+            "document": sec["document"],
+            "page": sec["page"],
+            "refined_text": sec["section_title"],
+            "importance_rank": sec["importance_rank"]
+        }
+        for sec in top_sections
+    ]
+
+    # Build final output JSON
     output = {
         "metadata": {
             "input_documents": input_files,
@@ -84,15 +94,8 @@ def main():
             "job_to_be_done": job_to_be_done,
             "timestamp": str(datetime.now())
         },
-        "extracted_sections": all_sections[:10],  # Only top 10 relevant sections overall
-        "subsection_analysis": [
-            {
-                "document": s["document"],
-                "page": s["page"],
-                "refined_text": s["section_title"],
-                "importance_rank": s["importance_rank"]
-            } for s in all_sections[:10]
-        ]
+        "extracted_sections": top_sections,
+        "subsection_analysis": subsection_analysis
     }
 
     print(f"Saving output to: {OUTPUT_FILE}")
@@ -103,3 +106,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
